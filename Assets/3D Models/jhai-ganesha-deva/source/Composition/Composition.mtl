@@ -1,0 +1,65 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 25.08.2019 02:42:27
+
+newmtl Veg
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Do\World 3D Scan\Ganesha_scan\max1\Corredo\Veg_DiffuseMap.jpg
+	map_Kd D:\Do\World 3D Scan\Ganesha_scan\max1\Corredo\Veg_DiffuseMap.jpg
+	map_d D:\Do\World 3D Scan\Ganesha_scan\max1\Corredo\Veg_AlphaMap.jpg
+
+newmtl GOLD__DARK_
+	Ns 69.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 0.6157 0.2392
+	Kd 1.0000 0.6157 0.2392
+	Ks 0.5100 0.5100 0.5100
+	Ke 0.0000 0.0000 0.0000
+	map_bump F:\3D Hentry Tre\jarnalderskruka-iron-age-pot\max1\Lota A1_Material__0_Normal.png
+	bump F:\3D Hentry Tre\jarnalderskruka-iron-age-pot\max1\Lota A1_Material__0_Normal.png
+	map_refl E:\Mapmy\ArchMat\REFMAP.GIF
+
+newmtl _Lastrone_Roccia_A1CL_Lastrone_LR1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka E:\Mapmy\Dedicate\CL_Lastrone_LR1_1DiffuseMap.jpg
+	map_Kd E:\Mapmy\Dedicate\CL_Lastrone_LR1_1DiffuseMap.jpg
+	map_bump F:\ENDed\Lastrone Pietra\CL_Lastrone_LR1_1NormalsMap.jpg
+	bump F:\ENDed\Lastrone Pietra\CL_Lastrone_LR1_1NormalsMap.jpg
+
+newmtl G_LR_Stone
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Do\World 3D Scan\Ganesha_scan\max1\Stone\G-LR_diffuse.jpg
+	map_Kd D:\Do\World 3D Scan\Ganesha_scan\max1\Stone\G-LR_diffuse.jpg
+	map_Ks D:\Do\World 3D Scan\Ganesha_scan\max1\Stone\G-LR_specular.jpg
+	map_bump D:\Do\World 3D Scan\Ganesha_scan\max1\G-LR.PSD
+	bump D:\Do\World 3D Scan\Ganesha_scan\max1\G-LR.PSD
